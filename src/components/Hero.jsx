@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://github.com/deepakratre/AI-news-summerizer", "_blank")
           }
           className='black_btn'
         >
@@ -20,7 +20,7 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        Summarize Articles with <br className='max-md:hidden' />
+        News Summerizer with <br className='max-md:hidden' />
         <span className='orange_gradient '>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
