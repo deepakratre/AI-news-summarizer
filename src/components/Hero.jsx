@@ -20,8 +20,8 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        News Summerizer with <br className='max-md:hidden' />
-        <span className='orange_gradient '>OpenAI GPT-4</span>
+        News Summarizer with <br className='max-md:hidden' />
+        <span className='orange_gradient '>OpenAI GPT-3</span>
       </h1>
       <h2 className='desc'>
         Simplify your reading with Summize, an open-source article summarizer
